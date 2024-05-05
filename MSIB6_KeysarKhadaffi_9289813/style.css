@@ -1,0 +1,23 @@
+body {
+  min-height: 3000px;
+}
+
+.hero {
+  padding: 6rem 6rem;
+}
+
+#about {
+  background-color: #efefef;
+}
+
+#contact {
+  background-color: #efefef;
+}
+
+#kaki {
+  background-color: #efefef;
+}
+
+section {
+  padding: 5rem;
+}
